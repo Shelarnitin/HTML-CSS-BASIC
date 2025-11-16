@@ -1,0 +1,11 @@
+.flex-demo {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.flex-demo > div {
+    background-color: lightblue;
+    padding: 50px;
+    /* margin: 300px; */
+}
